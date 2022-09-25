@@ -133,7 +133,7 @@
 
 
 # 前端项目地址
-## 基于Springboot+Vue的stucompla前台项目
-https://github.com/1452162669/stucompla-front
+## 基于Springboot+Vue的stucompla前台项目前端
+https://github.com/ynwynw/stuSecond-public/tree/master/stucompla-front-feature-v0.0.1
 ## 基于Springboot的stucompla后台管理系统前端项目
-https://github.com/1452162669/stucompla-front-admin
+https://github.com/ynwynw/stuSecond-public/tree/master/admin/stucompla-front-admin-feature-v0.0.1
